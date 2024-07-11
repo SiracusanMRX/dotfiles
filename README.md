@@ -11,6 +11,6 @@ Copied from branch:github.com/Isoheptane/dotfiles and customed sth on my own.
 ### my PC Build
 | Component | Name |
 | --------: | - |
-| CPU | Ryzen R9 7950x |
+| CPU | AMD Ryzen 9 7950x |
 | Graphics | AMD Radeon™ Graphics 2CU |
 | Monitor | HKC 2560*1080 |
