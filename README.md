@@ -1,5 +1,5 @@
 ## Dotfiles
-copied from cascade.moe and customed sth on my own.
+Copied from branch:github.com/Isoheptane/dotfiles and customed sth on my own.
 
 ### [cascade's] PC Build
 | Component | Name |
@@ -7,3 +7,10 @@ copied from cascade.moe and customed sth on my own.
 | CPU | AMD Ryzen 7 3700X |
 | Graphics | NVIDIA GeForce RTX 2060 SUPER |
 | Monitor | 2560*1080 |
+
+### my PC Build
+| Component | Name |
+| --------: | - |
+| CPU | Ryzen R9 7950x |
+| Graphics | AMD Radeon™ Graphics 2CU |
+| Monitor | HKC 2560*1080 |
