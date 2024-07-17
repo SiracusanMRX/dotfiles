@@ -1,5 +1,6 @@
-## Dotfiles
-Copied from branch:github.com/Isoheptane/dotfiles and customed sth on my own.
+## DOTFILES
+THIS IS A CONFIGURATION PKG OF HYPRLAND.
+EDITED FROM BRANCH github.com/Isoheptane/dotfiles AND DONE CUSTOMS.
 
 ### [cascade's] PC Build
 | Component | Name |
