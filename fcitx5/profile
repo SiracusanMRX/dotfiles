@@ -4,7 +4,7 @@ Name=Default
 # Layout
 Default Layout=us
 # Default Input Method
-DefaultIM=pinyin
+DefaultIM=rime
 
 [Groups/0/Items/0]
 # Name
@@ -14,7 +14,7 @@ Layout=
 
 [Groups/0/Items/1]
 # Name
-Name=pinyin
+Name=rime
 # Layout
 Layout=
 
@@ -24,7 +24,7 @@ Name=All
 # Layout
 Default Layout=us
 # Default Input Method
-DefaultIM=mozc
+DefaultIM=rime
 
 [Groups/1/Items/0]
 # Name
@@ -34,13 +34,7 @@ Layout=
 
 [Groups/1/Items/1]
 # Name
-Name=pinyin
-# Layout
-Layout=
-
-[Groups/1/Items/2]
-# Name
-Name=mozc
+Name=rime
 # Layout
 Layout=
 

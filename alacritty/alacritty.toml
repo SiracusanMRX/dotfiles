@@ -8,13 +8,16 @@ shape = "Beam"
 TERM = "xterm-256color"
 
 [font]
-size = 16
+# font = "ttf-jetbrains-mono"
+size = 12
 
 [font.bold]
-style = "SemiBold"
+style = "JetBrains Mono"
+# style = "SemiBold"
 
 [font.normal]
-family = "Inconsolata"
+family = "JetBrains Mono"
+# family = "Inconsolata"
 style = "Regular"
 
 [[keyboard.bindings]]

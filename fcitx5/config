@@ -3,47 +3,40 @@
 TriggerKeys=
 # Enumerate when press trigger key repeatedly
 EnumerateWithTriggerKeys=True
+# Temporally switch between first and current Input Method
+AltTriggerKeys=
+# Enumerate Input Method Forward
+EnumerateForwardKeys=
 # Enumerate Input Method Backward
 EnumerateBackwardKeys=
 # Skip first input method while enumerating
 EnumerateSkipFirst=False
-
-[Hotkey/AltTriggerKeys]
-0=Shift_L
-
-[Hotkey/EnumerateForwardKeys]
-0=Alt+Shift+Shift_L
-
-[Hotkey/EnumerateGroupForwardKeys]
-0=Super+space
-
-[Hotkey/EnumerateGroupBackwardKeys]
-0=Shift+Super+space
+# Enumerate Input Method Group Forward
+EnumerateGroupForwardKeys=
+# Enumerate Input Method Group Backward
+EnumerateGroupBackwardKeys=
+# Default Previous page
+PrevPage=
+# Default Next page
+NextPage=
+# Default Previous Candidate
+PrevCandidate=
+# Default Next Candidate
+NextCandidate=
+# Toggle embedded preedit
+TogglePreedit=
 
 [Hotkey/ActivateKeys]
-0=Hangul_Hanja
+0=Super+space
 
 [Hotkey/DeactivateKeys]
-0=Hangul_Romaja
-
-[Hotkey/PrevPage]
-0=Up
-
-[Hotkey/NextPage]
-0=Down
-
-[Hotkey/PrevCandidate]
-0=Left
-
-[Hotkey/NextCandidate]
-0=Right
-
-[Hotkey/TogglePreedit]
-0=Control+Alt+P
+0=Super+space
 
 [Behavior]
 # Active By Default
 ActiveByDefault=False
+# Reset state on Focus In
+resetStateWhenFocusIn=No
 # Share Input State
 ShareInputState=All
 # Show preedit in application
@@ -57,7 +50,7 @@ CompactInputMethodInformation=True
 # Show first input method information
 ShowFirstInputMethodInformation=True
 # Default page size
-DefaultPageSize=5
+DefaultPageSize=6
 # Override Xkb Option
 OverrideXkbOption=False
 # Custom Xkb Option

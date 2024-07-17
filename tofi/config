@@ -68,7 +68,7 @@
 	#     Radius of background box corners in pixels
 
 	# Prompt text theme
-	prompt-color = #F7CA88
+	prompt-color = #CCEEFF
 	prompt-background = #00000000
 	prompt-background-padding = 0
 	prompt-background-corner-radius = 0
