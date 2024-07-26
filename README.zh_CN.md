@@ -37,7 +37,7 @@
   7. *(for CN usrs/国内)* Dingtalk ; 钉钉；
   8. OBS-Studio ; 录屏软件； 倘若不直播，我个人推荐 `I444 (8-bit, 4:4:4, 3 planes)` 搭配码率 `4000-6000kbps`， `60fps`, `(Audio) Stereo` 进行非游戏内容录制以获得更佳效果；
 - Novice安装配置之前应安装的 *部分* `应用/applications`与 `依赖环境/dependecies` 排列如下 *(不分先后)* ：
-`wqy-microhei` `wqy-microhei-lite` `wqy-zenhei` `ttf-arphic-ukai` `ttf-arphic-uming` `adobe-source-han-sans-cn-fonts` `adobe-source-han-serif-cn-fonts` `noto-fonts-cjk` `yay` `noto-fonts-cjk` `noto-fonts-emoji` `wget` `paru` `jdk21-openjdk` `vi` `nano` `go` `wechat-uos-qt` `linuxqq-appimage` `Dingtalk-bin` `nautilus` `hyprctl` `tofictl` `pseudo` `grim` `OBS-studio` `obs-cli` `togglefloating` `swayidle` `jdk17-openjdk` `dbus` `git` `tofi` `vlc` `alacritty` `fish` `hyprland` `fontconfig` `hyprlock` `hyprpaper` `kitty` `mako` `waybar` `dwindle`
+`wqy-microhei` `wqy-microhei-lite` `wqy-zenhei` `ttf-arphic-ukai` `ttf-arphic-uming` `adobe-source-han-sans-cn-fonts` `adobe-source-han-serif-cn-fonts` `noto-fonts-cjk` `yay` `noto-fonts-cjk` `noto-fonts-emoji` `wget` `paru` `jdk21-openjdk` `vi` `nano` `go` `wechat-uos-qt` `linuxqq-appimage` `Dingtalk-bin` `nautilus` `hyprctl` `tofictl` `pseudo` `grim` `OBS-studio` `obs-cli` `togglefloating` `swayidle` `jdk17-openjdk` `dbus` `git` `tofi` `vlc` `alacritty` `fish` `hyprland` `fontconfig` `hyprlock` `hyprpaper` `kitty` `mako` `waybar` `dwindle` `fcitx5-im` `fcitx5-chinese-addons` `fcitx5-rime` `fcitx5-qt`
 
 ### $. Novice / 效果展示
 
@@ -91,6 +91,6 @@
 22. 静音 `Fn + F10`或`F10` *(具体取决于你的键盘设计)*;
 23. 启用输入法 `Super + Space`;
 24. 内容自动填充 `Tab`;
-25. 内容按组进行删除 `Alt + BackSpace`或`Ctrl + BackSpace`或`Shift + BackSpace`;
-26. 内容按组进行光标移动 `Alt + ↑ ↓ ← →`或`Ctrl + ↑ ↓ ← →`或`Shift + ↑ ↓ ← →`;
+25. 内容按组进行删除 `Alt + BackSpace`或`Ctrl + BackSpace`
+26. 内容按组进行光标移动 `Ctrl + ↑ ↓ ← →`
 27. 内容根据光标移动进行选中 `Shift + ↑ ↓ ← →`;
