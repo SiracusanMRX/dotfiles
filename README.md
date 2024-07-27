@@ -2,8 +2,6 @@
 
 # MY HYPRLAND DESKTOP CONFIGS
 
-- - -
-
 ## Config / Taking effect
 
 **Before do it, please make sure that your hyprland and other applications have installed and run properly.**
