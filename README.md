@@ -36,7 +36,7 @@
 8. Kill process `Alt + C` or `Ctrl + C`;
 9. Files `Alt + E`;
 10. Lock your screen `Alt + L`;
-11. Enter different work space `Alt + 1`,`Alt + 2`...`Alt + 10` or `Alt + 滚轮滚动`;
+11. Enter different work space `Alt + 1`,`Alt + 2`...`Alt + 10` or `Alt + Scrolling`;
 12. Kill all waybar `Alt + Ctrl + Super + R`;
 13. Quit hyprland env `Alt + Shift + M`;
 14. Screenshot `Alt + Shift + S` or `PrintScreen`;
