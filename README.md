@@ -11,7 +11,7 @@ I am **Siracusant**, a believer of ***arch cult*** who is studying computer scie
 
 <div>
     <a href="https://go.dev/"><img src="https://img.shields.io/badge/go-36B1FF?style=for-the-badge&logo=go&logoColor=white" /></a>
-    <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/archlinux-1793F1?style=for-the-badge&logo=arch-linux&logoColor=white" /></a>
+    <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/arch-1793F1?style=for-the-badge&logo=arch-linux&logoColor=white" /></a>
     <a href="https://hyprland.org/"><img src="https://img.shields.io/badge/Hyprland-00599C?style=for-the-badge&logo=hyprland&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/security-b20000?style=for-the-badge&logo=shell&logoColor=white" />
     <a href="https://www.mozilla.org/"><img src="https://img.shields.io/badge/Firefox-d38f23?style=for-the-badge&logo=Firefox-Browser&logoColor=white" /></a>
