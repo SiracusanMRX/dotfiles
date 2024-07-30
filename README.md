@@ -17,7 +17,7 @@ I am **Siracusant**, a believer of ***arch cult*** who is studying computer scie
     <a href="https://alacritty.org/"><img src="https://img.shields.io/badge/Alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" /></a>
     <a href="https://proton.me/mail"><img src="https://img.shields.io/badge/mail-5e00cf?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
     <a href="https://protonvpn.com/"><img src="https://img.shields.io/badge/vpn-5e00cf?style=for-the-badge&logo=protonvpn&logoColor=white" /></a>
-    <a href="https://protonvpn.com/"><img src="https://img.shields.io/badge/monkeytype-4f4f4f?style=for-the-badge&logo=monkeytype&logoColor=ffd540" /></a>
+    <a href="https://monkeytype.com/"><img src="https://img.shields.io/badge/monkeytype-4f4f4f?style=for-the-badge&logo=monkeytype&logoColor=ffd540" /></a>
 </div>
 
 - The main development language and the customary development language are **Go**.
