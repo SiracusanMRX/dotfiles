@@ -52,7 +52,7 @@
 ### GITHUB STATS ://
 
 ![](https://github-readme-stats.vercel.app/api?username=Siracusant&show_icons=true&text_bold=false&bg_color=20242a&border_color=0000&title_color=fff&text_color=afbac4&icon_color=3190f3&ring_color=3190f3&border_radius=20)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siracusant热菜&layout=compact&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&border_radius=20)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siracusant&layout=compact&bg_color=242930&border_color=0000&title_color=fff&text_color=afbac4&border_radius=20)
 
 - - -
 
