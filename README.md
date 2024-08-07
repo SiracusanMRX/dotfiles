@@ -19,7 +19,7 @@
 <div align="center">
     <a href="https://go.dev/"><img src="https://img.shields.io/badge/go-00b1ff?style=for-the-badge&logo=go&logoColor=white" /></a>
     <a href="https://www.java.com/"><img src="https://img.shields.io/badge/java-c34c00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
+    <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
     <a href="https://nginx.org/en/"><img src="https://img.shields.io/badge/nginx-009111?style=for-the-badge&logo=nginx&logoColor=white" /></a>
     <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-005868?style=for-the-badge&logo=mysql&logoColor=white" /></a>
     <a href="https://www.jetbrains.com/go/"><img src="https://img.shields.io/badge/goland-2f14a9?style=for-the-badge&logo=goland&logoColor=white" /></a>
@@ -29,7 +29,7 @@
 
 - *Primary language is **Go**, start in **early 2023**.*
 - *First exposure was **Java**, around **3 years**.*
-- *Sometimes **Python** is used and learning.*
+- *Start learning **Rust**.*
 - *Know a little about **Nginx**, **MySQL** and **Git.***
 
 
