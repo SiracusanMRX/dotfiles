@@ -60,4 +60,4 @@
 
 [![Github](https://img.shields.io/badge/@Siracusant-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siracusant)
 [![X](https://img.shields.io/badge/@Siracusant-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Siracusant)
-[![Discord](https://img.shields.io/badge/@Siracusant-000000?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/@Siracusant-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Siracusant)
